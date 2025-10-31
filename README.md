@@ -31,10 +31,7 @@ The goal was to upload a personal photo and detect the face or person in the ima
 Steps Performed
 
 1. Loaded the YOLOv5 model
-   ```python
-   import torch
-   model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
 2. Upload your image
 3. Run object detection
-
+4. Save results 
 
