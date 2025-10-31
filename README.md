@@ -21,9 +21,19 @@ In this notebook, we:
 
 
 Graphs:
+
+
+
 ![Scatter Plot – Alcohol vs Malic Acid](Scatter_plot.png)
 ![SVM Confusion Matrix](Decision_tree.png)
 ![Decision Tree Confusion Matrix](Decision_tree_2.png)
+
+Takeaway:
+This exercise demonstrates how to apply machine learning models to classify the quality of wine based solely on the chemical composition. By training and testing the models, there was a deeper understanding of how different algorithms are able to process data and make predictions. Data processing was another major aspect of this exercise, specifically standardizing certain features to ensure each variable contributes equally to the performance of the model's. Overall, this exercise reinforced key concepts in model evaluation. 
+
+
+---
+
 
 
 
@@ -46,3 +56,7 @@ Steps Performed
 Image:
 ![YOLOv5 Output](Photo.png)
 
+
+
+Takeaway: 
+In this exercise, a pre-trained YOLO model from the ultralytics repository was used to identify and label objects with bounding boxes and confidence scores. This was an introduction to the fundementals of computer vision and how powerful models can perform complex visual recognition task without any additional training. Overall, this exercise demonstrated how object detection can be used in a variety of fields. 
