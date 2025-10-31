@@ -18,10 +18,14 @@ In this notebook, we:
    - Decision Tree Classifier
    - Logistic Regression
 6. Evaluate model performance using accuracy scores and confusion matrices.
+
 Graphs:
 ![Scatter Plot – Alcohol vs Malic Acid](Scatter_plot.png)
+
 ![SVM Confusion Matrix](Decision_tree.png)
+
 ![Decision Tree Confusion Matrix](Decision_tree_2.png)
+
 Takeaway:
 This exercise demonstrates how to apply machine learning models to classify the quality of wine based solely on the chemical composition. By training and testing the models, there was a deeper understanding of how different algorithms are able to process data and make predictions. Data processing was another major aspect of this exercise, specifically standardizing certain features to ensure each variable contributes equally to the performance of the model's. Overall, this exercise reinforced key concepts in model evaluation. 
 
