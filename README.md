@@ -17,7 +17,10 @@ In this notebook, we:
    - Support Vector Machine (SVM)
    - Decision Tree Classifier
    - Logistic Regression
-6. **Evaluate** model performance using accuracy scores and confusion matrices.
+6. Evaluate model performance using accuracy scores and confusion matrices.
+
+
+
 
 
 
