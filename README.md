@@ -44,7 +44,7 @@ Steps Performed
 2. Upload your image
 3. Run object detection
 4. Save results
-5. 
+   
 ![YOLOv5 Output](Photo.png)
 Takeaway: 
 In this exercise, a pre-trained YOLO model from the ultralytics repository was used to identify and label objects with bounding boxes and confidence scores. This was an introduction to the fundementals of computer vision and how powerful models can perform complex visual recognition task without any additional training. Overall, this exercise demonstrated how object detection can be used in a variety of fields. 
