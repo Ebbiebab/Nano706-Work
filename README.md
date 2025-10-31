@@ -20,6 +20,11 @@ In this notebook, we:
 6. Evaluate model performance using accuracy scores and confusion matrices.
 
 
+Graphs:
+![Scatter Plot – Alcohol vs Malic Acid](Scatter plot.png)
+![SVM Confusion Matrix](Decision tree.png)
+![Decision Tree Confusion Matrix](Decision tree 2.png)
+
 
 
 
@@ -36,5 +41,8 @@ Steps Performed
 1. Loaded the YOLOv5 model
 2. Upload your image
 3. Run object detection
-4. Save results 
+4. Save results
+
+Image:
+![YOLOv5 Output](Photo.png)
 
