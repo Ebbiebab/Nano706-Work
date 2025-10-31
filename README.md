@@ -21,9 +21,9 @@ In this notebook, we:
 
 
 Graphs:
-![Scatter Plot – Alcohol vs Malic Acid](Scatter plot.png)
-![SVM Confusion Matrix](Decision tree.png)
-![Decision Tree Confusion Matrix](Decision tree 2.png)
+![Scatter Plot – Alcohol vs Malic Acid](Scatterplot.png)
+![SVM Confusion Matrix](Decisiontree.png)
+![Decision Tree Confusion Matrix](Decisiontree2.png)
 
 
 
