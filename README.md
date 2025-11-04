@@ -19,6 +19,9 @@ In this notebook, we:
    - Logistic Regression
 6. Evaluate model performance using accuracy scores and confusion matrices.
 
+---
+Loading and explroing the scikit-learn wine data gave us a visualization og alcohol and
+
 ![Scatter Plot – Alcohol vs Malic Acid](Scatter_plot.png)
 
 ![SVM Confusion Matrix](Decision_tree.png)
